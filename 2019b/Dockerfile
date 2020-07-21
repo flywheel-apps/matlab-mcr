@@ -1,4 +1,4 @@
-# Download and install Matlab Compiler Runtime v9.5 (2018b)
+# Download and install Matlab Compiler Runtime v9.7 (2019b)
 #
 # This docker file will configure an environment into which the Matlab compiler
 # runtime will be installed and in which stand-alone matlab routines (such as
